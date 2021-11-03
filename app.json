@@ -1,12 +1,12 @@
 {
-  "name": "TELEROID RENAMER BOT",
-  "description": "",
+  "name": "SL_Jana_Rename_Bot",
+  "description": "Rename Your File Through Telegram",
   "keywords": [
     "Rename"
   ],
-  "success_url": "https://t.me/TeleRoid_RENAMER_BOT",
-  "website": "https://github.com/P-Phreak",
-  "repository": "https://github.com/P-Phreak/RENAMER-BOT",
+  "success_url": "http://t.me/SL_Jana_Rename_Bot",
+  "website": "https://t.me/SL_Jana_Team",
+  "repository": "https://github.com/SLJaNa/Renamer-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
