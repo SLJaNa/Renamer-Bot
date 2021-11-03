@@ -1,6 +1,6 @@
-# (@) TeleRoidGroup| https://github.com/PredatorHackerzZ/RENAMER-BOT
+# (@) SL_Jana_Team| https://github.com/SLJaNa/Renamer-Bot
 
-# (©) @PredatorHackerzZ | @Clinton-Abraham / [ 28-12-2020] 5:10 PM
+# (©) @SL_Jana_Team  / [ 28-12-2020] 5:10 PM
 
 import os
 import logging
